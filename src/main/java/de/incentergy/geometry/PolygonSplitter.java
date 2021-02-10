@@ -2,7 +2,7 @@ package de.incentergy.geometry;
 
 import java.util.List;
 
-import com.vividsolutions.jts.geom.Polygon;
+import org.locationtech.jts.geom.Polygon;
 
 public interface PolygonSplitter {
 

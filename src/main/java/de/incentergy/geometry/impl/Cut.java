@@ -1,6 +1,6 @@
 package de.incentergy.geometry.impl;
 
-import com.vividsolutions.jts.geom.Polygon;
+import org.locationtech.jts.geom.Polygon;
 
 public class Cut {
 

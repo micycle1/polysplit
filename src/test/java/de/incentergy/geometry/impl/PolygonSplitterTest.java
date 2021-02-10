@@ -6,8 +6,8 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.vividsolutions.jts.geom.Polygon;
-import com.vividsolutions.jts.io.WKTReader;
+import org.locationtech.jts.geom.Polygon;
+import org.locationtech.jts.io.WKTReader;
 
 import de.incentergy.geometry.PolygonSplitter;
 

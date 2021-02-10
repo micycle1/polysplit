@@ -3,13 +3,13 @@ package de.incentergy.geometry.utils;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.vividsolutions.jts.algorithm.LineIntersector;
-import com.vividsolutions.jts.algorithm.RobustLineIntersector;
-import com.vividsolutions.jts.geom.Coordinate;
-import com.vividsolutions.jts.geom.LineSegment;
-import com.vividsolutions.jts.geom.LineString;
-import com.vividsolutions.jts.geom.Polygon;
-import com.vividsolutions.jts.geom.util.AffineTransformation;
+import org.locationtech.jts.algorithm.LineIntersector;
+import org.locationtech.jts.algorithm.RobustLineIntersector;
+import org.locationtech.jts.geom.Coordinate;
+import org.locationtech.jts.geom.LineSegment;
+import org.locationtech.jts.geom.LineString;
+import org.locationtech.jts.geom.Polygon;
+import org.locationtech.jts.geom.util.AffineTransformation;
 
 public final class GeometryUtils {
 

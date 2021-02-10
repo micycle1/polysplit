@@ -5,8 +5,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import com.vividsolutions.jts.geom.LineSegment;
-import com.vividsolutions.jts.geom.Polygon;
+import org.locationtech.jts.geom.LineSegment;
+import org.locationtech.jts.geom.Polygon;
 
 import de.incentergy.geometry.PolygonSplitter;
 import de.incentergy.geometry.impl.EdgePair.EdgePairSubpolygons;

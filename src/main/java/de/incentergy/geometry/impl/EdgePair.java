@@ -5,9 +5,9 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Objects;
 
-import com.vividsolutions.jts.geom.Coordinate;
-import com.vividsolutions.jts.geom.LineSegment;
-import com.vividsolutions.jts.geom.Polygon;
+import org.locationtech.jts.geom.Coordinate;
+import org.locationtech.jts.geom.LineSegment;
+import org.locationtech.jts.geom.Polygon;
 
 import de.incentergy.geometry.utils.GeometryFactoryUtils;
 import de.incentergy.geometry.utils.GeometryUtils;
